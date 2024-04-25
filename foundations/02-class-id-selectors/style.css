@@ -1,10 +1,21 @@
-/* style.css */
-p {
+.odd {
     background-color: #ffcccc;
     font-family: Verdana, "DejaVu Sans", sans-serif;
 }
 
+.adjust-font-size
+{font-size: 24px;
+
+}
+
 #element2 {
     color:#0000ff;
-    font: size 36px;;
+    font-size:36px;
+}
+
+#element4 {
+
+    background-color:#ccffcc;
+    font-size: 24px;
+    font-weight: bold;
 }
