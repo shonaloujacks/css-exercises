@@ -1,0 +1,10 @@
+/* style.css */
+p {
+    background-color: #ffcccc;
+    font-family: Verdana, "DejaVu Sans", sans-serif;
+}
+
+#element2 {
+    color:#0000ff;
+    font: size 36px;;
+}
